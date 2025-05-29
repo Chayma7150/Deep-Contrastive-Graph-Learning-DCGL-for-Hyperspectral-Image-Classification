@@ -4,6 +4,8 @@
 
 ---
 
+![DCGL Architecture](nv-architecture.png)
+
 ## 🔑 Key Components of the Framework
 
 ### 1. Spectral Graph Representation
