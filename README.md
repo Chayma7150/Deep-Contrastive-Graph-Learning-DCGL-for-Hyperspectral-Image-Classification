@@ -46,7 +46,7 @@
 
 ## 📊 Visualization of Embeddings
 
-![t-SNE Visualization](DGCL222.png)
+![t-SNE Visualization](Visualizations.png)
 
 **Figure:** t-SNE projection of the high-dimensional embeddings from DCGL on the Pavia University dataset. Each point is a pixel’s learned representation, colored by ground-truth class.
 
