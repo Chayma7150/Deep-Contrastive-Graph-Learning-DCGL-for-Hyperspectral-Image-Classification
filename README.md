@@ -6,7 +6,7 @@
 
 ![DCGL Architecture](nv-architecture.png)
 
-## 🔑 Key Components of the Framework
+##  Key Components of the Framework
 
 ### 1. Spectral Graph Representation
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🎯 Highlights of DCGL
+##  Highlights of DCGL
 
 - Minimizes intra-class variability and enhances inter-class discrimination.
 - Works well in low-label and imbalanced settings.
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 Visualization of Embeddings
+##  Visualization of Embeddings
 
 ![t-SNE Visualization](Visualizations.png)
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 🔍 Key Observations
+###  Key Observations
 
 - **Well-Separated Clusters**: Most classes form distinct and compact clusters.
 - **Intra-Class Compactness**: Tight distributions due to Centroid Metric Loss.
@@ -69,7 +69,7 @@
 
 ---
 
-## 🌐 Future Perspectives
+##  Future Perspectives
 
 Future work will:
 - Integrate **spatial cues** through spectral-spatial graphs.
