@@ -11,11 +11,10 @@
 - Each pixel in the hyperspectral image is represented as a node in a graph.
 - Edges are weighted by spectral similarity using a Gaussian kernel over Euclidean distances.
 - Only significant edges (above a threshold `s`) are retained, yielding a sparse, data-adaptive adjacency matrix.
-- Avoids rigid `k`-NN assumptions.
 
 ### 2. GCN-Based Spectral Propagation
 
-- A Graph Convolutional Network (GCN) using Chebyshev filters propagates information.
+- A Graph Convolutional Network (GCN) propagates information.
 - Generates latent embeddings that capture local and global spectral dependencies.
 - Transforms raw spectral data into a structured feature space.
 
